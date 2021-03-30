@@ -1,2 +1,2 @@
 # test
-add smth from develp 2
+add smth from both main and develp
